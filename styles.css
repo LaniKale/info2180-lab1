@@ -1,0 +1,28 @@
+
+body {
+    background-color: #372828;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    color: #44ccac;
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 21px;
+    color: #6060DD
+}
+
+p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff
+}
+/* add simple spacing and readability improvements as margin, padding or a subtle background color */
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
